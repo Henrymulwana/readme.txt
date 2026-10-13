@@ -1,0 +1,41 @@
+.display{
+    padding: 30px;
+    border-radius: 12px;
+    width: 170px;
+    text-align: center;
+    height: 10px;
+    background-color:grey;
+}
+.btn{
+    color: white;
+    background-color:black ;
+    border-radius: 50px;
+    padding: none;
+    height: 50px;
+    width: 50px;
+    display: inline;
+    margin: 3px;
+    
+
+
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.calculator{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    margin: 32px;
+    border-radius: 20px;
+    width: 250px;
+    height: 450px;
+}
+#symbol{
+    background-color: orange;
+}
+#ac{
+    background-color: rgb(245, 9, 9);
+}
